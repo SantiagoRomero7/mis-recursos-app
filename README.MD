@@ -95,6 +95,7 @@ cd mis-recursos-app
 
 ## 👨‍💻 Autores
 Nombre: Santiago Romero
+
 Nombre: Rircardo Palomino 
 
-GitHub: https://github.com/tu-usuario
+GitHub: https://github.com/SantiagoRomero7/mis-recursos-app
